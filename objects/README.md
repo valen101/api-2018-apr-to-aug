@@ -41,7 +41,15 @@ $ git checkout -b feature-objects develop
   }
 ?>
 ```
-##### <kbd>To be continued....</kbd>
+##### Basic OOP concepts
+- An **abstraction** denotes the essential characteristics of an object that distinguish it from
+all other kinds of objects and thus provide crisply defined conceptual boundaries relative
+to the perspective of the viewer.
+Abstraction provides you a generalized view of your classes or object by providing relevant information.
+**Abstraction** is the process of hiding the working style of an object, and showing the information of an object in understandable manner.
+- **Encapsulation**; means hiding the internal details of an object, i.e. how an object does something.
+- **Inheritance**; is the process of object re-usability.
+
 
 #### Encouragement
 > In learning OOP and design patterns for PHP, you need to remember a couple of points,
@@ -51,8 +59,9 @@ sides in Design Patterns: Elements of Reusable Object-Oriented Software: _1). De
 #### References
 1. Chapter 1 & 2 - Learning PHP Design Patterns by William Sanders
 2. Chapter 6 - Programming PHP. Kevin Tatroe, Peter MacIntyre and Rasmus Lerdorf
-3. [No Time For OOP or Design Patterns?][c5975f08] ✳️✳️✳️✳️✳️
+3. [PHP OOP Basics][6a61e70e]
+4. [No Time For OOP or Design Patterns?][c5975f08] ✳️✳️✳️✳️✳️
 
   [c5975f08]: http://www.php5dp.com/no-time-for-oop-or-design-patterns/ "No Time For OOP or Design Patterns"
-
+  [6a61e70e]: http://www.saviost.net/object-oriented-programming-oop-encapsulation-inheritance-polymorphism-abstraction/ "PHP OOP Basics"
 >_"Do not pray for tasks equal to your powers. Pray for powers equal to your tasks."_ Phillips Brooks ✍✍
