@@ -4,6 +4,7 @@
    ********************************************************/
   class TellMe{
     //class properties/attributes
+    //learning oop basics in php
 
     //Accessible only within the class
     //Needs getter and setter
